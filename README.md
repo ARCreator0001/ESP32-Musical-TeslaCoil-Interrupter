@@ -127,12 +127,12 @@ Spent a lot of time and many sleepless nights for these nice designs :)
 |M2 X 10mm Hex (Allen) Socket Head High Tensile(12.9) Black oxide screw (Dia. 2mm, Length 10mm)|8|onlyscrews.in|₹28.8 $0.307|₹28.8 $0.307|[link](https://onlyscrews.in/products/m2-x-10mm-hex-allen-socket-head-high-tensile12-9-black-oxide-screw-dia-2mm-length-10mm?variant=49979287339321)|
 |M2 Plain Washer SS304 (ID. 2.1mm OD:4.5mm T:0.5mm)|4|onlyscrews.in|₹2.4 $0.0256|₹2.4 $0.0256|[link](https://onlyscrews.in/products/m2-x-6mm-hex-allen-socket-head-high-tensile12-9-black-oxide-screw-dia-2mm-length-6mm?variant=49979039416633)|
 |M2 Hex Nut Mild Steel with White Zinc Plating (Dia. 2mm)|4|onlyscrews.in|₹4 $0.0426|₹0.0426|[link](https://onlyscrews.in/products/m2-hex-nut-mild-steel-dia-2mm?variant=50252401246521)|
-|M2 X 4mm Brass Threaded Inserts (Dia. 2mm, Length 4mm)|8|onlyscrews.in|₹21.6 $0.23|₹21.6 $0.23|[link]()|
-|16*2 I2C LCD|1|Local shop|Alr own|Alr own|
-|9V PP3 Battery|1|Local shop|Alr own|Alr own|
-|9V PP3 Battery connector clip|1|Local shop|Will purchase myself|Will purchase myself|
-|Sum||||$58.8217 excluding shipping cost of LCSC of $29.25 and $0.5224 of Robu,LionCircuits is free shipping,OnlyScrews has shipping cost of $0.6397|
-|Grand Total|||||$89.2338|
+|M2 X 4mm Brass Threaded Inserts (Dia. 2mm, Length 4mm)|8|onlyscrews.in|₹21.6 $0.23|₹21.6 $0.23|[link](https://onlyscrews.in/products/m2-x-4mm-brass-threaded-inserts?variant=49423172829497)|
+|16*2 I2C LCD|1|Local shop|Alr own|Alr own| |
+|9V PP3 Battery|1|Local shop|Alr own|Alr own| |
+|9V PP3 Battery connector clip|1|Local shop|Will purchase myself|Will purchase myself| |
+|Sum||||$58.8217 excluding shipping cost of LCSC of $29.25 and $0.5224 of Robu,LionCircuits is free shipping,OnlyScrews has shipping cost of $0.6397| |
+|Grand Total|||||$89.2338| |
  # Pictures of carts with the products needed to order:
  <img width="1916" height="978" alt="image" src="https://github.com/user-attachments/assets/f36e0148-2897-4e6b-bdff-f7a7475dce63" />
 <img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/be509a54-4a1c-4d58-9a77-3b5e6cfbb854" />
