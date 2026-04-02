@@ -81,6 +81,8 @@ It is powered by a 9V battery inside the battery compartment by default, but USB
 <img width="1047" height="835" alt="image" src="https://github.com/user-attachments/assets/8d12908c-c802-4836-a0dd-734005201af4" />
 <img width="831" height="737" alt="image" src="https://github.com/user-attachments/assets/72fe30d3-3e3c-4d01-b53e-f4ffe767c5de" />
 <img width="1310" height="826" alt="image" src="https://github.com/user-attachments/assets/e55e008d-4078-47d0-bec6-ccba448f418a" />
+
+Exploded view
 <img width="1170" height="735" alt="image" src="https://github.com/user-attachments/assets/a160d0d6-d68f-4ae5-8933-08075a5ff77e" />
 <img width="1107" height="647" alt="image" src="https://github.com/user-attachments/assets/bb9f048d-a60a-4a5c-b9d1-7baddd771605" />
 <img width="1194" height="737" alt="image" src="https://github.com/user-attachments/assets/fc06c8cb-4a9f-4e1f-a545-51790129f071" />
