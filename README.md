@@ -72,7 +72,7 @@ It is powered by a 9V battery inside the battery compartment by default, but USB
 # CAD images and images of PCB & schematic
 <img width="1680" height="899" alt="image" src="https://github.com/user-attachments/assets/5525e93a-25ad-4251-b350-33e3f8a4bf7a" />
 <img width="918" height="679" alt="image" src="https://github.com/user-attachments/assets/a4fbd079-8a44-4cc9-9eff-eb03a8ec3017" />
-<img width="1173" height="780" alt="image" src="https://github.com/user-attachments/assets/2829f909-6bd7-4f5a-bbcd-28264c4f15d9" />
+<img width="1086" height="649" alt="image" src="https://github.com/user-attachments/assets/86f8c524-60f1-4022-98ec-872d1a598f7b" />
 <img width="1102" height="761" alt="image" src="https://github.com/user-attachments/assets/2c8b6ca5-a0b9-4732-b86c-bf5e4fee5b58" />
 <img width="992" height="762" alt="image" src="https://github.com/user-attachments/assets/0e483338-82aa-4360-8ca8-ee8dfd671f4a" />
 <img width="1103" height="634" alt="image" src="https://github.com/user-attachments/assets/da671fe7-a5e1-48c3-b2bf-8681943b2bd4" />
