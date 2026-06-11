@@ -46,25 +46,25 @@ It is powered by a 9V battery inside the battery compartment by default, but USB
 # Firmware details
 
 ## Build & Upload (Arduino IDE)
-
+ Please install the ESP32 board core before proceeding
  The interrupter after building needs to be programmed with firmware. The latest firmware files can be accessed in releases. 
 
-1. Board: **ESP32S3 Devkit** (or ESP32S3 Dev Module)
+1. Board: Select **ESP32S3 Devkit** (or ESP32S3 Dev Module)
 
-2. Libraries: Please download the necessary libraries, it will after compiling give errors indicating which is missing. Most libraries are common and preinstalled in Arduino. Some libraries (not all) that need to be installed is LiquidCrystal_I2C, NimBLE. For now the firmware is still in work and libraries constantly change, so I apologize for less clarity, soon it will be clear on dependencies. 
+2. Libraries: Unlike previous firmware versions, Now the libraries are included within the firmware locally
 
 3. Select correct COM port, Upload.
 
 ## Controls
 
 - **Main menu**: LEFT/RIGHT to navigate; SELECT(rotary's switch) to enter, soon mid button for exiting. 
-- **Fixed mode**: short SELECT toggles freq/volume adjust; hold SELECT ~1 s to exit(as of current firmware) 
+- **Fixed mode**: short SELECT toggles freq/volume adjust; Press middle button to exit
 
-- **Live mode&MIDI BLE**: SELECT activates and exits live modes. Status is shown in LCD. 
+- **Live mode&MIDI BLE**: SELECT activates and exits live mode. Status is shown in LCD. 
 
-- **SD browser**:LEFT/RIGHT to navigate; SELECT opens folder or plays file; hold SELECT ~1 s to exit to menus(as of now) 
+- **SD browser**:LEFT/RIGHT to navigate through files & directories; SELECT opens folder or plays file; press middle button to go one up if inside directories or exit the mode if in root directory. 
 
-- **Playback**: SELECT stops; Rotary knob rotation djust volume bar
+- **Playback**: SELECT starts & stops; Rotary knob rotation adjusts volume bar(the coil duty)
 
 ## File format
 
@@ -91,7 +91,6 @@ Exploded view
 
 Here is schematic
 <img width="2358" height="1672" alt="SCH_ESP32 SD Interrupter_1-Sheet_1_2026-03-31" src="https://github.com/user-attachments/assets/584c0d0e-c3f7-41b7-809b-03401be68280" />
-Spent a lot of time and many sleepless nights for these nice designs :)
 
 # Bill of materials
 
@@ -138,23 +137,9 @@ Spent a lot of time and many sleepless nights for these nice designs :)
 |9V PP3 Battery connector clip|1|Local shop|Will purchase myself|Will purchase myself| |
 |Sum||||$58.8217 excluding shipping cost of LCSC of $29.25 and $0.5224 of Robu,LionCircuits is free shipping,OnlyScrews has shipping cost of $0.6397| |
 |Grand Total|||||$89.2338| |
- # Pictures of carts with the products needed to order:
- <img width="1916" height="978" alt="image" src="https://github.com/user-attachments/assets/f36e0148-2897-4e6b-bdff-f7a7475dce63" />
-<img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/be509a54-4a1c-4d58-9a77-3b5e6cfbb854" />
-<img width="1918" height="954" alt="image" src="https://github.com/user-attachments/assets/0a687b3c-43eb-4415-8762-64847ac0c2db" />
 
-
-
-<img width="1919" height="998" alt="image" src="https://github.com/user-attachments/assets/415cf5db-4ea6-4080-85b6-b63f5b300836" />
-<img width="1916" height="963" alt="image" src="https://github.com/user-attachments/assets/106d0382-2154-4d47-a9b9-3207e09d75ca" />
-
-
-<img width="1912" height="1023" alt="image" src="https://github.com/user-attachments/assets/a1cfc6eb-8f49-4cd8-925e-2148298976c0" />
-<img width="1919" height="1038" alt="image" src="https://github.com/user-attachments/assets/671cb776-4622-4659-a3da-ed219c9392b1" />
-
-
-
-Link to onshape: [Onshape](https://cad.onshape.com/documents/e0858d62bc807065493100b9/w/9e573f9273f6c5cefa0e0909/e/5fb6c5c268f4d3541bf88c26?renderMode=0&uiState=69cbe64c76ff3f85d768a45f)
+ 
+Link to onshape doc: [Onshape](https://cad.onshape.com/documents/e0858d62bc807065493100b9/w/9e573f9273f6c5cefa0e0909/e/5fb6c5c268f4d3541bf88c26?renderMode=0&uiState=69cbe64c76ff3f85d768a45f)
 
 
 
