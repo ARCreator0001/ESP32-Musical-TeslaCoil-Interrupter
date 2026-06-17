@@ -7,6 +7,8 @@
 
 <img width="1048" height="626" alt="image" src="https://github.com/user-attachments/assets/0a7b73ee-704c-430d-9e90-3e3829a2eea8" />
 
+Demo videos of it working!!
+[Demo!!](https://photos.app.goo.gl/NQnrEBtg6dafcK8i7)
 
 Link to onshape: [Onshape](https://cad.onshape.com/documents/e0858d62bc807065493100b9/w/9e573f9273f6c5cefa0e0909/e/5fb6c5c268f4d3541bf88c26?renderMode=0&uiState=69cbe64c76ff3f85d768a45f)
 
