@@ -5,7 +5,8 @@
 <img width="709" height="945" alt="image" src="https://github.com/user-attachments/assets/ca532ac1-2842-4bfd-9f0c-404d7121bf63" />
 
 
-<img width="1048" height="626" alt="image" src="https://github.com/user-attachments/assets/0a7b73ee-704c-430d-9e90-3e3829a2eea8" />
+<img width="1040" height="698" alt="image" src="https://github.com/user-attachments/assets/a418eb98-ba74-491a-8d83-ac445f594539" />
+
 
 Demo video of it working!!(YouTube)
 [Demo!!](https://youtu.be/YgG9X8sHGf4)
@@ -74,22 +75,31 @@ It is powered by a 9V battery inside the battery compartment by default, but USB
 -It also uses .omd file but it is a limited fallback only, it is a cut down midi file format OneTesla used so your music may not play properly. Soon  .omd will be disabled by default. 
 
 # CAD images and images of PCB & schematic
-<img width="1680" height="899" alt="image" src="https://github.com/user-attachments/assets/5525e93a-25ad-4251-b350-33e3f8a4bf7a" />
-<img width="918" height="679" alt="image" src="https://github.com/user-attachments/assets/a4fbd079-8a44-4cc9-9eff-eb03a8ec3017" />
-<img width="1086" height="649" alt="image" src="https://github.com/user-attachments/assets/86f8c524-60f1-4022-98ec-872d1a598f7b" />
-<img width="1102" height="761" alt="image" src="https://github.com/user-attachments/assets/2c8b6ca5-a0b9-4732-b86c-bf5e4fee5b58" />
-<img width="992" height="762" alt="image" src="https://github.com/user-attachments/assets/0e483338-82aa-4360-8ca8-ee8dfd671f4a" />
-<img width="1103" height="634" alt="image" src="https://github.com/user-attachments/assets/da671fe7-a5e1-48c3-b2bf-8681943b2bd4" />
-<img width="1054" height="700" alt="image" src="https://github.com/user-attachments/assets/72788fde-34f4-43f1-9fd9-15f5e951fe4e" />
-<img width="1032" height="812" alt="image" src="https://github.com/user-attachments/assets/413a8464-317f-4809-94f0-a928c2feb570" />
-<img width="1047" height="835" alt="image" src="https://github.com/user-attachments/assets/8d12908c-c802-4836-a0dd-734005201af4" />
-<img width="831" height="737" alt="image" src="https://github.com/user-attachments/assets/72fe30d3-3e3c-4d01-b53e-f4ffe767c5de" />
-<img width="1310" height="826" alt="image" src="https://github.com/user-attachments/assets/e55e008d-4078-47d0-bec6-ccba448f418a" />
+<img width="1040" height="698" alt="image" src="https://github.com/user-attachments/assets/12806c8d-9917-457d-9b22-7d3ea8295f2e" />
+<img width="1119" height="729" alt="image" src="https://github.com/user-attachments/assets/3267d5b2-65cc-449b-a5e4-538f2b3e59a3" />
+<img width="1037" height="654" alt="image" src="https://github.com/user-attachments/assets/e0aef778-549c-4adc-9854-0258119e6a1a" />
+<img width="1125" height="752" alt="image" src="https://github.com/user-attachments/assets/54ab21e9-6d59-44b7-8b3e-3d0ef41a42a8" />
 
-Exploded view
-<img width="1170" height="735" alt="image" src="https://github.com/user-attachments/assets/a160d0d6-d68f-4ae5-8933-08075a5ff77e" />
-<img width="1107" height="647" alt="image" src="https://github.com/user-attachments/assets/bb9f048d-a60a-4a5c-b9d1-7baddd771605" />
-<img width="1194" height="737" alt="image" src="https://github.com/user-attachments/assets/fc06c8cb-4a9f-4e1f-a545-51790129f071" />
+PCB images
+<img width="1110" height="689" alt="image" src="https://github.com/user-attachments/assets/034d31ff-116e-4973-984a-e11640f1c2bb" />
+<img width="1089" height="704" alt="image" src="https://github.com/user-attachments/assets/0681e38a-0413-4788-b667-271d76ff738a" />
+<img width="1071" height="741" alt="image" src="https://github.com/user-attachments/assets/c082c0d8-5494-4f0d-8e80-0dc4a9b38fc8" />
+<img width="1083" height="720" alt="image" src="https://github.com/user-attachments/assets/471e31b0-8290-4355-9680-07b72527f487" />
+<img width="1017" height="677" alt="image" src="https://github.com/user-attachments/assets/4dc4ce45-058b-4e26-9b5e-25ab8a653146" />
+<img width="1047" height="722" alt="image" src="https://github.com/user-attachments/assets/4420cc9a-2e89-4006-9dbc-dada66156075" />
+<img width="1125" height="652" alt="image" src="https://github.com/user-attachments/assets/c438f657-a9f9-420c-9804-2b4fc165c1c9" />
+
+All mech parts in parts studio
+<img width="936" height="770" alt="image" src="https://github.com/user-attachments/assets/3df61321-2c21-4edd-a633-c8058c8be56c" />
+<img width="827" height="674" alt="image" src="https://github.com/user-attachments/assets/c9e2ea21-69da-4d75-b269-27405693ea07" />
+
+
+
+Exploded views
+<img width="670" height="730" alt="image" src="https://github.com/user-attachments/assets/9a7b5c72-fe66-458b-8948-711e4b33f0de" />
+<img width="968" height="475" alt="image" src="https://github.com/user-attachments/assets/b3b6d3d0-0071-48f3-af3e-8a340bb8b8cd" />
+<img width="1071" height="706" alt="image" src="https://github.com/user-attachments/assets/80e332d2-4d14-45ab-81e6-9e629a242d1e" />
+<img width="671" height="720" alt="image" src="https://github.com/user-attachments/assets/7063afb5-f940-4159-918c-33ff52f8f28c" />
 
 Here is schematic
 <img width="2358" height="1672" alt="SCH_ESP32 SD Interrupter_1-Sheet_1_2026-03-31" src="https://github.com/user-attachments/assets/584c0d0e-c3f7-41b7-809b-03401be68280" />
